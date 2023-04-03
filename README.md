@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # CoderDost MERN Stack E-commerce Project - Frontend Repository
 
@@ -47,3 +48,6 @@ MERN E-Commerce (in Hindi) with Admin Panel, Redux Toolkit, Stripe Payment, Clou
 - Payments using Stripe - PaymentIntent based custom flow
 
 
+=======
+# project-eCommerce2
+>>>>>>> 69a6548a289df2e16bdccc25de75868317f609f2
